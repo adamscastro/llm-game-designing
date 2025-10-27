@@ -5,7 +5,7 @@ Question's subreddit link: https://www.reddit.com/r/gamedesign/comments/1hpufjc/
 Date: 2024-12-30
 
 ## Problem Description
-Why are yellow climbable surfaces considered bad game design, but red explosive barrels are not? — nan
+Why are yellow climbable surfaces considered bad game design, but red explosive barrels are not?
 
 ## Best Human-rated Answer
 Here's a good article about yellow paint: https://critpoints.net/2024/03/03/yellow-paint-is-fine-actually/
