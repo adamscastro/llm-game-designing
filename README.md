@@ -54,20 +54,20 @@ Click on the **question number** to open the full page containing the respective
       <td style="text-align:center;">🙂</td>
     </tr>
     <tr>
-      <td style="text-align:center;"><a href="LINK_02">02</a></td>
-      <td>TITLE_02</td>
-      <td style="text-align:center;"></td>
-      <td style="text-align:center;"></td>
-      <td style="text-align:center;"></td>
-      <td style="text-align:center;"></td>
-      <td style="text-align:center;"></td>
-      <td style="text-align:center;"></td>
-      <td style="text-align:center;"></td>
-      <td style="text-align:center;"></td>
-      <td style="text-align:center;"></td>
-      <td style="text-align:center;"></td>
-      <td style="text-align:center;"></td>
-      <td style="text-align:center;"></td>
+      <td style="text-align:center;"><a href="question_002.md">02</a></td>
+      <td>Why Have Damage Ranges?</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">😐</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
     </tr>
     <tr>
       <td style="text-align:center;"><a href="LINK_03">03</a></td>
