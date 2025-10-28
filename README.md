@@ -14,9 +14,9 @@ Click on the **question number** to open the full page containing the respective
     <tr>
       <th style="text-align:center;">Q#</th>
       <th>Question</th>
-      <th colspan="3" style="text-align:center;">ChatGPT-5</th>
-      <th colspan="3" style="text-align:center;">Gemini</th>
-      <th colspan="3" style="text-align:center;">DeepSeek</th>
+      <th colspan="4" style="text-align:center;">ChatGPT-5</th>
+      <th colspan="4" style="text-align:center;">Gemini</th>
+      <th colspan="4" style="text-align:center;">DeepSeek</th>
     </tr>
     <tr>
       <th></th>
