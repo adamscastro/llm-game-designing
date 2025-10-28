@@ -70,22 +70,54 @@ Click on the **question number** to open the full page containing the respective
       <td style="text-align:center;">🙂</td>
     </tr>
     <tr>
-      <td style="text-align:center;"><a href="LINK_03">03</a></td>
-      <td>TITLE_03</td>
-      <td style="text-align:center;"></td>
-      <td style="text-align:center;"></td>
-      <td style="text-align:center;"></td>
-      <td style="text-align:center;"></td>
-      <td style="text-align:center;"></td>
-      <td style="text-align:center;"></td>
-      <td style="text-align:center;"></td>
-      <td style="text-align:center;"></td>
-      <td style="text-align:center;"></td>
-      <td style="text-align:center;"></td>
-      <td style="text-align:center;"></td>
-      <td style="text-align:center;"></td>
+      <td style="text-align:center;"><a href="question_003.md">03</a></td>
+      <td>Making a pause screen which can't be abused for cheating</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">😐</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">😐</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
     </tr>
     <!-- ... continue até o número total de questões ... -->
+     <tr>
+      <td style="text-align:center;"><a href="question_004.md">03</a></td>
+      <td>Why are skill trees better regarded than free skills?</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+     <tr>
+      <td style="text-align:center;"><a href="question_005.md">03</a></td>
+      <td>How would you make a player paranoid without any actual threat?</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
   </tbody>
 </table>
 
