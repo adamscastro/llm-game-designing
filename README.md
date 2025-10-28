@@ -150,6 +150,534 @@ Click on the **question number** to open the full page containing the respective
       <td style="text-align:center;">🙂</td>
       <td style="text-align:center;">🙂</td>
     </tr>
+    <tr>
+      <td style="text-align:center;"><a href="question_008.md">08</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+     <tr>
+      <td style="text-align:center;"><a href="question_009.md">09</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+     <tr>
+      <td style="text-align:center;"><a href="question_010.md">10</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+     <tr>
+      <td style="text-align:center;"><a href="question_011.md">11</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+     <tr>
+      <td style="text-align:center;"><a href="question_012.md">12</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+     <tr>
+      <td style="text-align:center;"><a href="question_013.md">13</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+     <tr>
+      <td style="text-align:center;"><a href="question_014.md">14</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+     <tr>
+      <td style="text-align:center;"><a href="question_015.md">15</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+     <tr>
+      <td style="text-align:center;"><a href="question_016.md">16</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+     <tr>
+      <td style="text-align:center;"><a href="question_017.md">17</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+     <tr>
+      <td style="text-align:center;"><a href="question_018.md">18</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+     <tr>
+      <td style="text-align:center;"><a href="question_019.md">19</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+     <tr>
+      <td style="text-align:center;"><a href="question_020.md">20</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><a href="question_021.md">21</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><a href="question_022.md">22</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><a href="question_023.md">23</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><a href="question_024.md">24</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><a href="question_025.md">25</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><a href="question_026.md">26</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><a href="question_027.md">27</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><a href="question_028.md">28</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><a href="question_029.md">29</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><a href="question_030.md">30</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><a href="question_031.md">31</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><a href="question_032.md">32</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><a href="question_033.md">33</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><a href="question_034.md">34</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><a href="question_035.md">35</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><a href="question_036.md">36</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><a href="question_037.md">37</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><a href="question_038.md">38</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><a href="question_039.md">39</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><a href="question_040.md">40</a></td>
+      <td>x</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
   </tbody>
 </table>
 
