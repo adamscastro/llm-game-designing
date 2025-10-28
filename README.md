@@ -87,7 +87,7 @@ Click on the **question number** to open the full page containing the respective
     </tr>
     <!-- ... continue até o número total de questões ... -->
      <tr>
-      <td style="text-align:center;"><a href="question_004.md">03</a></td>
+      <td style="text-align:center;"><a href="question_004.md">04</a></td>
       <td>Why are skill trees better regarded than free skills?</td>
       <td style="text-align:center;">🙂</td>
       <td style="text-align:center;">🙂</td>
@@ -103,7 +103,7 @@ Click on the **question number** to open the full page containing the respective
       <td style="text-align:center;">🙂</td>
     </tr>
      <tr>
-      <td style="text-align:center;"><a href="question_005.md">03</a></td>
+      <td style="text-align:center;"><a href="question_005.md">05</a></td>
       <td>How would you make a player paranoid without any actual threat?</td>
       <td style="text-align:center;">🙂</td>
       <td style="text-align:center;">🙂</td>
@@ -115,6 +115,38 @@ Click on the **question number** to open the full page containing the respective
       <td style="text-align:center;">🙂</td>
       <td style="text-align:center;">🙂</td>
       <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+     <tr>
+      <td style="text-align:center;"><a href="question_006.md">06</a></td>
+      <td>Isn't the problem with Melee vs. Ranged approachable with different enemy attack patterns?</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">😐</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><a href="question_007.md">07</a></td>
+      <td>So what's the point of durability?</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">🙂</td>
+      <td style="text-align:center;">😐</td>
       <td style="text-align:center;">🙂</td>
       <td style="text-align:center;">🙂</td>
     </tr>
